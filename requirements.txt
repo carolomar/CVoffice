@@ -1,0 +1,5 @@
+streamlit
+requests
+anthropic
+plotly
+openai
