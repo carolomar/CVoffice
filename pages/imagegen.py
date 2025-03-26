@@ -128,7 +128,7 @@ with tabs[0]:
                                           index=0)
             with col_b:
                 model = st.selectbox("Model",
-                                     ["V_2A_TURBO", "V_3","V_1_TURBO","V_2_TURBO","V_2A", "V_2", "V_3"],
+                                     ["V_2A_TURBO"],
                                      index=0)
                 magic_prompt = st.selectbox("Magic Prompt",
                                             ["AUTO", "OFF"],
