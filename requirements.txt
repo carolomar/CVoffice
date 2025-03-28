@@ -4,4 +4,4 @@ anthropic
 plotly
 openai
 pathlib
-shutil
+
